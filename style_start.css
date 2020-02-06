@@ -1,0 +1,55 @@
+body {
+	font-family:sans-serif;
+	font-size: 14px; 
+}
+h1, h2 {
+	font-family: serif; 
+	border-bottom: 1px solid #808080;
+}
+a {
+	text-decoration: none;
+}
+.italic {
+	font-style: italic;
+}
+.contents {
+	border: 1px solid;
+	background-color: #d3d3d3;
+	width: 350px;
+	height: 300px;
+}
+.contents ul {
+	list-style-type: none;
+	padding: none'
+	
+
+}
+table {
+	#Width of 500 pixels
+	#Center the table using margin
+}
+table, th, td {
+	#Thin black border
+	#How do you make the borders one thin line instead of two?
+}
+th {
+	#Medium-colored background
+}
+td {
+	#Light-colored background
+}
+caption {
+	#Make this bold
+}
+.gallery {
+	#Remove bullets
+}
+.gallerybox {
+	#Display horizontally using the display property
+	#Width of 220 pixels
+	#Align the divs by the top of each picture
+}
+.gallerythumb img {
+	#Width of 200 pixels
+	#Height of 100 pixels
+}
